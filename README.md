@@ -1,5 +1,7 @@
 # PearlVolt for HiveOS
 
+🌐 https://pearlvolt.run
+
 Install PearlVolt miner on HiveOS.
 
 ## Installation
