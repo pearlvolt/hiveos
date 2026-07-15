@@ -12,7 +12,7 @@ Install PearlVolt miner on HiveOS.
 1. HiveOS web → Worker → Miner → Custom
 2. Set:
    - **Miner name**: `pearlvolt`
-   - **Install URL**: `https://github.com/pearlvolt/hiveos/releases/latest/download/pearlvolt`
+   - **Install URL**: `https://github.com/pearlvolt/hiveos/releases/download/v1.0.0/pearlvolt-1.0.0.tar.gz`
    - **Wallet**: `WALLET:prl1YOURWALLETADDRESS`
    - **Pool**: `stratum+tcp://pool.pearlvolt.run:4141`
 
